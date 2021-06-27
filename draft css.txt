@@ -1,0 +1,60 @@
+<style>
+    #first {
+        color: rgb(93, 151, 216);
+        height: 50px;
+        width: 50%;
+        background-color: azure;
+    }
+    #second {
+        color: rgb(225, 205, 226);
+        font-weight:50 ;
+        font-size: 30px;
+        font-weight: 200;
+        font-style: italic;
+    }
+    h3{
+        color: rgb(32, 116, 88);
+        font-size: 20px;
+        font-style: oblique;
+        font-family: monospace;
+    }
+    p{
+        color: rgb(80, 39, 107);
+        font-size: 30px ;
+        
+        font-weight: 700;
+        font-family: monospace;
+        font-style: italic;
+        
+        
+    }
+
+.feelings{
+    font-size: 30px;
+    background-color: rgb(228, 213, 215);
+}
+
+h3.feelings{
+    font-style: italic;
+    font-size: 20px;
+    width: 50%;
+}
+img{
+    height: 300px;
+    width: 200px;
+}
+.goal{
+    font-family: sans-serif;
+}
+.wallpaper{
+    background-color: rgb(145, 163, 182);
+    font:200;
+    color: rgb(26, 7, 58);
+    font-family: serif;
+    width: 50%;
+    font-size: 20px;
+}
+.love{
+    color: cornflowerblue;
+}
+</style>

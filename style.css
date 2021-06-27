@@ -1,0 +1,22 @@
+.wallpaper{
+    /*  background-color: rgb(190, 203, 216);
+ 
+ color: rgb(106, 73, 163);
+ font-family: sans-serif;
+ width: 50%;
+ font-size: 20px;
+ font-weight: 1000; */
+ border: 2px solid black;
+ border-radius: 30px;
+ width: 25%;
+ 
+ margin: 5px 10px 20px 10px ;
+ padding: 10px 20px;
+ display: inline-block;
+ }
+ h4{
+     text-align: center;
+ }
+ p{
+     text-align: justify;
+ }
